@@ -1,7 +1,3 @@
-//
-//  UserModel.swift
-//  ExampleProject
-
 
 import Foundation
 
