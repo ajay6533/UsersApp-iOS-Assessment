@@ -1,7 +1,3 @@
-//
-//  UserDetailView.swift
-//  ExampleProject
-
 
 import SwiftUI
 
