@@ -1,7 +1,3 @@
-//
-//  NetworkManager.swift
-//  ExampleProject
-
 
 import Foundation
 import Combine
