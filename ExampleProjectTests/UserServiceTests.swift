@@ -1,9 +1,3 @@
-//
-//  UserServiceTests.swift
-//  ExampleProjectTests
-//
-//  Created by Suresh Shiga on 18/10/25.
-//
 
 import XCTest
 @testable import ExampleProject
