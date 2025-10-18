@@ -1,9 +1,3 @@
-//
-//  ExampleProjectApp.swift
-//  ExampleProject
-//
-//  Created by Suresh Shiga on 17/10/25.
-//
 
 import SwiftUI
 
