@@ -1,7 +1,3 @@
-//
-//  NetworkError.swift
-//  ExampleProject
-
 
 import Foundation
 
