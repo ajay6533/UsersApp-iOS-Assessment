@@ -1,6 +1,3 @@
-//
-//  UserListViewModel.swift
-//  ExampleProject
 
 
 import Foundation
